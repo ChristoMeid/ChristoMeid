@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ChristoMeid
-- 👀 I’m currently interested in DeSo blockchain development and Android development using Kotlin and Flutter.
 - 🌱 I’m currently learning JavaScript and Dart/Flutter
 - 💞️ I’m looking to collaborate on smaller projects relating to data science or Android apps.
 - 📫 How to reach me here @tainteddingo.
